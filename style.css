@@ -1,0 +1,35 @@
+#set{
+
+    background-image: url(table.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.head{
+
+    font-family: sans-serif;
+  margin-left: 500px;
+  margin-top: 150px;
+  color: red;
+  display: flex
+}
+
+#box{
+    height: 500px;
+}
+
+#box-1{
+    background-color: #424242;
+    width: 40%;
+    height: 70%;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-right: auto;
+    
+}
+
+input{
+    margin-left: 33.5%;
+    margin-top: 70px;
+}
